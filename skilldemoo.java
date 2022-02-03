@@ -1,2 +1,7 @@
 public class skilldemoo
-{}// lets edit it offline
+{
+    public static int add( int m, int n)
+    {
+        return m + n;
+    }
+}// lets edit it offline
